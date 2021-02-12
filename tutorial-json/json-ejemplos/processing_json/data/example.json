@@ -1,0 +1,12 @@
+{
+  "examples": {
+    "example0": {
+      "exampleString": "string0",
+      "exampleInt": 0
+    },
+    "example1": {
+      "exampleString": "string1",
+      "exampleInt": 1
+    }
+  }
+}

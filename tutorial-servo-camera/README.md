@@ -32,9 +32,10 @@ This project was programmed and tested using the following software and hardware
 
 ## Installation
 
-* Clone or download this repository [https://github.com/montoyamoraga/servo_camera](https://github.com/montoyamoraga/servo_camera)
+* Clone or download this repository
 
 * Make sure you are using Python 2.x.
+* TODO: update to Python 3
 
 ```shell
 python --version
@@ -50,9 +51,9 @@ pip install virtualenv
 
 * Connect the servo motors to the Arduino.
 
-![00_connections](https://github.com/montoyamoraga/servo_camera/blob/master/pics/00_connections.jpg "servo_camera")
+![00_connections](./pics/00_connections.jpg "servo_camera")
 
-![01_servos](https://github.com/montoyamoraga/servo_camera/blob/master/pics/01_servos.jpg "servo_camera")
+![01_servos](./pics/01_servos.jpg "servo_camera")
 
 ## Usage
 
